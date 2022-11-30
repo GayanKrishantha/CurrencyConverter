@@ -1,0 +1,16 @@
+"navigation.title.main" = "Currency Converter";
+"navigation.title.search" = "Search";
+"label.not_available" = "NA";
+"label.fetching" = "Fetching...";
+"label.amount" = "Amount";
+"label.from" = "From";
+"label.to" = "To";
+"label.no_data_available" = "No data available";
+"label.search_currencies" = "Search currencies...";
+"label.convert" = "Convert";
+"label.enter_here" = "Enter here";
+"label.results" = "Results:";
+"label.date" = "Date:";
+"label.quote" = "Quote:";
+"label.required" = "Required...";
+"label.loading" = "Loading...";
